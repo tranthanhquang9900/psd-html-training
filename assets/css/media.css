@@ -1,0 +1,81 @@
+@media only screen and (max-width: 960px) {
+  /*your CSS Rules*/
+  .page1 {
+    height: 480px;
+  }
+  .click {
+    width: 160px;
+    height: 50px;
+  }
+  .logo {
+    margin-top: 20px;
+  }
+  .text {
+    font-size: 25px;
+  }
+  .list {
+    margin-left: 10%;
+  }
+  ul {
+    font-size: 11px;
+  }
+  .page2 {
+    height: 710px;
+  }
+  .line {
+    margin: 0 30%;
+    width: 70px;
+  }
+  .first-heading {
+    font-size: 30px;
+  }
+  .description {
+    font-size: 12px;
+  }
+  h4 {
+    font-size: 19px;
+  }
+  .info {
+    font-size: 10px;
+  }
+  .hinh {
+    width: 100%;
+  }
+  .page3 {
+    height: 700px;
+  }
+  .page5 {
+    height: 950px;
+  }
+  .option {
+    font-size: 12px;
+  }
+  .description-avatar {
+    font-size: 15px;
+    padding: 0px 20px 10px 30px;
+  }
+  .four-people {
+    margin-top: 0px;
+  }
+  .fix-text {
+    padding-left: 165px;
+  }
+  .message {
+    width: 600px;
+  }
+  .link-accout {
+    width: 760px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  /*your CSS Rules*/
+}
+@media only screen and (max-width: 640px) {
+  /*your CSS Rules*/
+}
+@media only screen and (max-width: 480px) {
+  /*your CSS Rules*/
+}
+@media only screen and (max-width: 320px) {
+  /*your CSS Rules*/
+}
