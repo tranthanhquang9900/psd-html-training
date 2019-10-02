@@ -10,6 +10,10 @@ src: url(../font/OpenSans-Bold.ttf)
     font-family: Lora;
     src: url(../font/Lora-Bold.ttf)
     }
+@font-face{
+    font-family: Raleway;
+    src: url(../font/Raleway/Raleway-Bold.ttf)
+}
 .logo {
     margin-right: 25%;
     width: 12%;
