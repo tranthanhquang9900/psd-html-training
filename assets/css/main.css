@@ -1,5 +1,4 @@
 ul {
-
   width: 36%;
 
   display: inline-block;
@@ -32,20 +31,26 @@ li a:hover {
   margin-right: 25%;
   width: 16%;
   display: inline-block;
-  / */
 }
 .menu {
   text-align: center;
   margin-top: 2%;
 }
 
-p {
+b {
+  font-size: 15px;
+}
+
+.ad {
+  font-size: 12px;
+}
+
+.page {
   bottom: 0;
   left: 17%;
   position: absolute;
   text-align: center;
 }
-
 
 .text {
   width: 62%;
@@ -62,6 +67,21 @@ p {
   background-color: #cecece;
 }
 
-.carousel-control-prev,.carousel-control-next{
+.carousel-control-prev,
+.carousel-control-next {
   border: 1px solid black;
+}
+
+.page2 {
+  text-align: center;
+}
+.background-img {
+  margin: 0 auto;
+  width: 80%;
+}
+.background {
+  width: 100%;
+}
+.page3 {
+  background-color: #fafafa;
 }
