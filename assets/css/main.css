@@ -1,6 +1,5 @@
-
 ul {
-  /* border: 1px solid black; */
+
   width: 36%;
 
   display: inline-block;
@@ -23,4 +22,46 @@ li a {
 
 li a:hover {
   color: #4caf50;
+}
+
+.img {
+  margin-right: 8%;
+}
+
+.logo {
+  margin-right: 25%;
+  width: 16%;
+  display: inline-block;
+  / */
+}
+.menu {
+  text-align: center;
+  margin-top: 2%;
+}
+
+p {
+  bottom: 0;
+  left: 17%;
+  position: absolute;
+  text-align: center;
+}
+
+
+.text {
+  width: 62%;
+  margin: 10% auto;
+  color: #212121;
+}
+
+.event {
+  color: #ffffff;
+  border: 2px solid #4caf50;
+  background-color: #4caf50;
+}
+.carousel-item {
+  background-color: #cecece;
+}
+
+.carousel-control-prev,.carousel-control-next{
+  border: 1px solid black;
 }
