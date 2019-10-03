@@ -69,19 +69,38 @@ b {
 
 .carousel-control-prev,
 .carousel-control-next {
-  border: 1px solid black;
 }
 
 .page2 {
   text-align: center;
 }
-.background-img {
-  margin: 0 auto;
-  width: 80%;
+
+.page3 {
+  position: relative;
+  background-color: #fafafa;
+}
+.our-work {
+  color: #4caf50;
+  background-color: #ffffff;
+  border: 2px solid #4caf50;
+}
+.ee {
+  margin: 15% 0;
+}
+.back {
+  background-color: #bda87f;
+  position: absolute;
+  height: 100%;
+
+  width: 47%;
 }
 .background {
+  position: absolute;
   width: 100%;
+  height: 100%;
 }
-.page3 {
-  background-color: #fafafa;
+.back-img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
 }

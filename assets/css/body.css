@@ -44,6 +44,9 @@
   margin-bottom: 10%;
 }
 .container {
+}
+
+.dd {
   margin-bottom: 10%;
 }
 
@@ -56,4 +59,17 @@ li a {
 }
 h6 {
   font-size: 20px;
+}
+.col {
+}
+.da {
+  font-size: 12px;
+}
+.description-who-we-are {
+  margin-right: 35%;
+  color: #808080;
+  font-family: OpenSans;
+}
+.quick-setup {
+  font-family: Raleway;
 }
