@@ -17,6 +17,7 @@
 }
 
 .first-text {
+  /* border: 1px solid black; */
   margin-bottom: 2%;
   font-family: Lora;
 }
@@ -44,6 +45,7 @@
   margin-bottom: 10%;
 }
 .container {
+  /* border: 1px solid black; */
 }
 
 .dd {
@@ -60,8 +62,7 @@ li a {
 h6 {
   font-size: 20px;
 }
-.col {
-}
+
 .da {
   font-size: 12px;
 }
@@ -72,4 +73,18 @@ h6 {
 }
 .quick-setup {
   font-family: Raleway;
+}
+.col-3 {
+  /* border: 1px solid black; */
+}
+.col-9 {
+  /* border: 1px solid black; */
+}
+.col {
+  height: 100%;
+  /* border: 1px solid black; */
+}
+.img-col {
+  height: 100%;
+  width: 100%;
 }

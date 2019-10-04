@@ -67,15 +67,12 @@ b {
   background-color: #cecece;
 }
 
-.carousel-control-prev,
-.carousel-control-next {
-}
-
 .page2 {
   text-align: center;
 }
 
 .page3 {
+  height: 400px;
   position: relative;
   background-color: #fafafa;
 }
@@ -96,7 +93,6 @@ b {
 }
 
 .fix {
-  width: 75%;
   position: relative;
 }
 
@@ -111,5 +107,6 @@ b {
   position: absolute;
 }
 .row {
+  /* border: 1px solid black; */
   height: 100%;
 }
