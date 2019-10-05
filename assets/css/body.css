@@ -16,6 +16,11 @@
   src: url(../font/Raleway/Raleway-Bold.ttf);
 }
 
+.ii {
+  width: 85%;
+  margin: 0 auto;
+}
+
 .first-text {
   /* border: 1px solid black; */
   margin-bottom: 2%;
