@@ -117,25 +117,14 @@ b {
 .mm {
   width: 85%;
 }
-.ff {
-  /* border: 1px solid black; */
-}
-.gg {
-  /* border: 1px solid black; */
-}
-.jj {
-  /* border: 1px solid black; */
-}
-.col-3 {
-  /* border: 1px solid black; */
-}
+
 .work-list {
   width: 100%;
   padding-left: 0px;
 }
 .oo {
   margin-left: 0;
-  font-size: 16px;
+  font-size: 14px;
   padding-top: 0;
   display: block;
 }
@@ -144,9 +133,52 @@ b {
   color: #4caf50;
 }
 .uu {
+  /* font-family: OpenSans; */
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2;
   margin-left: 10%;
 }
 .oo:hover {
   border-left: 5px solid #4caf50;
   color: #4caf50;
+}
+.page6 {
+  background-color: lightslategray;
+
+  height: 500px;
+}
+.description-person {
+  width: 40%;
+  color: rgba(24, 25, 27, 0.7);
+  font-family: OpenSans;
+  font-size: 15px;
+}
+.info-person {
+  margin-top: 10%;
+  margin-left: 10%;
+}
+.first-img {
+  width: 27%;
+  height: 27%;
+  position: absolute;
+  top: 0;
+  padding-left: 3%;
+}
+.second-img {
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  width: 50%;
+  height: 90%;
+}
+.second-text {
+  margin-bottom: 5%;
+  width: 100%;
+  color: #212121;
+  text-align: center;
+}
+.page5 {
+  background-color: #cecece;
 }
