@@ -49,9 +49,6 @@
   color: #18191b;
   margin-bottom: 10%;
 }
-.container {
-  /* border: 1px solid black; */
-}
 
 .dd {
   margin-bottom: 10%;
@@ -59,7 +56,7 @@
 
 .detail {
   font-family: OpenSans;
-  font-size: 13px;
+  font-size: 12px;
 }
 li a {
   font-family: Lora;
@@ -92,20 +89,13 @@ h6 {
   border: solid #4caf50;
   background-color: #4caf50;
 }
-/* .btn-purchase-live {
-  margin-top: 10%;
-  margin-left: 32%;
-} */
+
 .btn-live-demo {
   color: #4caf50;
   border: 2px solid #4caf50;
   background-color: transparent;
 }
-.text-beautiful-temp {
-  font-family: Lora;
-  font-size: 56px;
-  font-weight: bold;
-}
+
 .btn-play {
   text-align: center;
   font-family: fontawsome;
@@ -114,42 +104,20 @@ h6 {
   margin-bottom: 5%;
   color: #808080;
 }
-.feature-button {
-  margin-top: 5%;
-}
 .feature-icon {
   font-family: fontawsome;
-  font-size: 60px;
-  color: white;
-  margin-bottom: 10%;
-  background-color: black;
-  border-radius: 50%;
   text-align: center;
-  margin-left: 40%;
-  margin-right: 4%;
+  color: white;
+  font-size: 28px;
+  height: 100%;
+  background-color: black;
+  border-radius: 50% 50%;
 }
-.quick-setup-2 {
-  font-family: opensan;
-  font-size: 20px;
-  font-weight: bold;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: 0.5px;
-  text-align: left;
-  color: #212121;
-}
-.detail-2 {
-  opacity: 0.7;
-  font-family: opensan;
-  font-size: 10px;
-  text-align: left;
-  color: rgba(33, 33, 33, 0.7);
-}
+
 .feature-icon:hover {
   background-color: #4caf50;
 }
-.quick-setup-2:hover {
+.quick-setup:hover {
   color: #4caf50;
 }
 .our-core-feature {

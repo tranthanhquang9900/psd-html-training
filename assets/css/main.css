@@ -110,10 +110,7 @@ b {
   height: 100%;
   position: absolute;
 }
-.row {
-  /* border: 1px solid black; */
-  height: 100%;
-}
+
 .mm {
   width: 85%;
 }
@@ -181,4 +178,17 @@ b {
 }
 .page5 {
   background-color: #cecece;
+}
+.page7 {
+  border: 1px solid #c0c0c0;
+  box-sizing: border-box;
+  background-color: #c0c0c0;
+  height: 280px;
+}
+.tt {
+  width: 50%;
+  margin: 0 auto;
+}
+.ww {
+  width: 100%;
 }
