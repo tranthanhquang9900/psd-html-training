@@ -16,6 +16,11 @@
   src: url(../font/Raleway/Raleway-Bold.ttf);
 }
 
+@font-face {
+  font-family: icomoon;
+  src: url(../font/IcoMoon-Free.ttf);
+}
+
 .ii {
   width: 85%;
   margin: 0 auto;
@@ -135,4 +140,24 @@ h6 {
 
 .yy:hover {
   background-color: #4caf50;
+}
+.adb {
+  font-family: icomoon;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2;
+  letter-spacing: 12px;
+  text-align: left;
+  color: blue;
+}
+.footer {
+  position: relative;
+}
+.back-footer {
+  height: 100%;
+  position: absolute;
+  width: 100%;
+  opacity: 1.5;
 }
